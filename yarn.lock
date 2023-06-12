@@ -1963,15 +1963,6 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@17.0.54":
-  version "17.0.54"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.54.tgz#3ce9ab14e10e6bd1b02e3953b0c9d41e8161e0d7"
-  integrity sha512-yBon9aJ+pVyP0dzfs4sR2DOseDi6fDnZQHqFaprzDzFgxDLkUhL/Frjf2egvpdlVtssWH8k3YAgvaGQXFu+4Kw==
-  dependencies:
-    "@types/prop-types" "*"
-    "@types/scheduler" "*"
-    csstype "^3.0.2"
-
 "@types/react@^17":
   version "17.0.61"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.61.tgz#e9c790bd9000bb6c16c293ea70daebc36bb15b1d"

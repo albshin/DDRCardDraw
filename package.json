@@ -43,7 +43,6 @@
     "@types/fuzzy-search": "^2.1.0",
     "@types/hoist-non-react-statics": "3.3.1",
     "@types/node": "^20.3.0",
-    "@types/react": "17.0.54",
     "@types/react-dom": "17.0.20",
     "autoprefixer": "^10.4.14",
     "babel-loader": "^9.1.2",
