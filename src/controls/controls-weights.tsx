@@ -1,10 +1,11 @@
-import shallow from "zustand/shallow";
-import styles from "./controls-weights.css";
-import { times } from "../utils";
-import { useMemo } from "react";
-import { useConfigState } from "../config-state";
-import { useIntl } from "../hooks/useIntl";
-import { NumericInput, Checkbox } from "@blueprintjs/core";
+import shallow from 'zustand/shallow';
+import styles from './controls-weights.css';
+import { useMemo } from 'react';
+import { useConfigState } from '../config-state';
+import { useIntl } from '../hooks/useIntl';
+import { NumericInput, Checkbox } from '@blueprintjs/core';
+import { formatLevel, getAvailableLevels } from '../game-data-utils';
+import { useDrawState } from '../draw-state';
 
 interface Props {
   high: number;
@@ -13,6 +14,7 @@ interface Props {
 
 export function WeightsControls({ high, low }: Props) {
   const { t } = useIntl();
+  const gameData = useDrawState((s) => s.gameData);
   const { weights, forceDistribution, updateConfig } = useConfigState(
     (cfg) => ({
       weights: cfg.weights,
@@ -22,7 +24,8 @@ export function WeightsControls({ high, low }: Props) {
     shallow
   );
   const levels = useMemo(
-    () => times(high - low + 1, (n) => n + low - 1),
+    () =>
+      getAvailableLevels(gameData).filter((lvl) => lvl >= low && lvl <= high),
     [high, low]
   );
 
@@ -32,13 +35,13 @@ export function WeightsControls({ high, low }: Props) {
     }));
   }
 
-  function setWeight(difficulty: number, value: number) {
+  function setWeight(level: number, value: number) {
     updateConfig((state) => {
-      const newWeights = state.weights.slice();
+      const newWeights = { ...state.weights };
       if (Number.isInteger(value)) {
-        newWeights[difficulty] = value;
+        newWeights[level] = value;
       } else {
-        delete newWeights[difficulty];
+        delete newWeights[level];
       }
       return { weights: newWeights };
     });
@@ -55,24 +58,24 @@ export function WeightsControls({ high, low }: Props) {
 
   return (
     <section className={styles.weights}>
-      <p>{t("weights.explanation")}</p>
+      <p>{t('weights.explanation')}</p>
       {levels.map((level, i) => (
         <div className={styles.level} key={level}>
           <NumericInput
             width={2}
             name={`weight-${level}`}
-            value={weights[level] || ""}
+            value={weights[level] || ''}
             min={0}
             onValueChange={(v) => setWeight(level, v)}
             placeholder="0"
             fill
           />
-          {level} <sub>{percentages[i]}%</sub>
+          {formatLevel(level)} <sub>{percentages[i]}%</sub>
         </div>
       ))}
       <Checkbox
-        label={t("weights.check.label")}
-        title={t("weights.check.title")}
+        label={t('weights.check.label')}
+        title={t('weights.check.title')}
         name="limitOutliers"
         checked={forceDistribution}
         onChange={toggleForceDistribution}

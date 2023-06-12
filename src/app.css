@@ -52,3 +52,11 @@ textarea,
 button {
   font-size: 16px !important;
 } /* avoid iOS auto-zoom */
+
+.versionSelect {
+  max-width: 110px;
+
+  @media (min-width: 576px) {
+    max-width: 100%;
+  }
+}

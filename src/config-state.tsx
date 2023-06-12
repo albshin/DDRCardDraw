@@ -7,7 +7,7 @@ export interface ConfigState {
   useLevelConstants: boolean;
   useWeights: boolean;
   orderByAction: boolean;
-  weights: number[];
+  weights: Record<number, number>;
   forceDistribution: boolean;
   constrainPocketPicks: boolean;
   difficulties: ReadonlySet<string>;
@@ -24,7 +24,7 @@ export const useConfigState = createStore<ConfigState>((set, get) => ({
   useLevelConstants: false,
   useWeights: false,
   orderByAction: true,
-  weights: [],
+  weights: {},
   forceDistribution: true,
   constrainPocketPicks: true,
   difficulties: new Set(),

@@ -1,8 +1,8 @@
-import { useIntl } from "./hooks/useIntl";
-import { GameData } from "./models/SongData";
+import { useIntl } from './hooks/useIntl';
+import { GameData } from './models/SongData';
 
 export function getMetaString(t: (key: string) => string, key: string) {
-  return t("meta." + key);
+  return t('meta.' + key);
 }
 
 export function MetaString({ key }: { key: string }) {
@@ -11,7 +11,7 @@ export function MetaString({ key }: { key: string }) {
 }
 
 export function getDiffClass(t: (key: string) => string, diffClassKey: string) {
-  return t("meta.$abbr." + diffClassKey);
+  return t('meta.$abbr.' + diffClassKey);
 }
 
 interface AbbrProps {
@@ -30,7 +30,10 @@ export function formatLevel(level: number) {
   return level.toString();
 }
 
-export function getAvailableLevels(gameData: GameData): number[] {
+export function getAvailableLevels(gameData: GameData | null): number[] {
+  if (gameData === null) {
+    return [];
+  }
   const levelSet = new Set<number>();
   gameData.songs.forEach((song) => {
     song.charts.forEach((chart) => levelSet.add(chart.lvl));

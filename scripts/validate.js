@@ -52,7 +52,7 @@ function validateContents(dataFilename, dataFile) {
 
   for (const song of dataFile.songs) {
     if (song.jacket) {
-      const jacketPath = join(jacketsDir, basename(dataFilename, '.json'), song.jacket);
+      const jacketPath = join(jacketsDir, song.jacket);
       if (!existsSync(jacketPath)) {
         errors.push(`missing jacket image ${song.jacket}`);
       }

@@ -1,12 +1,14 @@
-import { HTMLSelect, Spinner, SpinnerSize } from "@blueprintjs/core";
-import { ReactNode, useEffect, useState } from "react";
-import { useDrawState } from "./draw-state";
-import { useDataSets } from "./hooks/useDataSets";
+import { HTMLSelect, Spinner, SpinnerSize } from '@blueprintjs/core';
+import { ReactNode, useEffect, useState } from 'react';
+import { useDrawState } from './draw-state';
+import { useDataSets } from './hooks/useDataSets';
+import styles from './app.css';
 
 export function VersionSelect() {
   const { current, available, loadData } = useDataSets();
   return (
     <HTMLSelect
+      className={styles.versionSelect}
       value={current.name}
       onChange={(e) => loadData(e.currentTarget.value)}
     >

@@ -5,9 +5,17 @@
  */
 
 /**
- * An array of strings without any duplicate values
+ * List of song categories
  */
 export type UniqueStringArr = string[];
+/**
+ * List of all special flags one might filter songs by
+ */
+export type UniqueStringArr1 = string[];
+/**
+ * An array of strings without any duplicate values
+ */
+export type UniqueStringArr2 = string[];
 
 /**
  * Describes the shape of data that any individual json file under `src/songs` will conform to
@@ -34,23 +42,17 @@ export interface GameData {
        */
       color: string;
     }[];
-    /**
-     * List of song categories
-     */
-    categories: string[];
-    /**
-     * List of all special flags one might filter songs by
-     */
-    flags: string[];
+    categories: UniqueStringArr;
+    flags: UniqueStringArr1;
     lvlMax: number;
   };
   /**
    * Defines the default configuration for this game
    */
   defaults: {
-    categories: UniqueStringArr;
-    difficulties: UniqueStringArr;
-    flags: UniqueStringArr;
+    categories: UniqueStringArr2;
+    difficulties: UniqueStringArr2;
+    flags: UniqueStringArr2;
     lowerLvlBound: number;
     upperLvlBound: number;
   };
@@ -74,7 +76,7 @@ export interface I18NDict {
 }
 export interface Song {
   id?: string;
-  flags?: UniqueStringArr;
+  flags?: UniqueStringArr2;
   name: string;
   artist: string;
   artist_translation?: string;
@@ -88,7 +90,7 @@ export interface Song {
   remyLink?: string;
 }
 export interface Chart {
-  flags?: UniqueStringArr;
+  flags?: UniqueStringArr2;
   /**
    * e.g. expert/challenge
    */

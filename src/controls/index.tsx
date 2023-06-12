@@ -416,7 +416,7 @@ function Controls() {
           }}
           label={t('useWeightedDistributions')}
         />
-        <Checkbox
+        {/*<Checkbox
           id="useLevelConstants"
           checked={useLevelConstants}
           onChange={(e) => {
@@ -425,6 +425,7 @@ function Controls() {
           }}
           label="Use Level Constants"
         />
+        */}
         {useWeights && <WeightsControls high={upperBound} low={lowerBound} />}
       </FormGroup>
     </form>

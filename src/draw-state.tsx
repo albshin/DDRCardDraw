@@ -1,17 +1,17 @@
-import { ReactNode, useEffect } from "react";
-import { UnloadHandler } from "./unload-handler";
-import { draw } from "./card-draw";
-import { Drawing } from "./models/Drawing";
-import FuzzySearch from "fuzzy-search";
-import { GameData, Song } from "./models/SongData";
-import i18nData from "./assets/i18n.json";
-import { availableGameData, detectedLanguage } from "./utils";
-import { ApplyDefaultConfig } from "./apply-default-config";
-import { ConfigState } from "./config-state";
-import { IntlProvider } from "./intl-provider";
-import * as qs from "query-string";
-import createStore from "zustand";
-import shallow from "zustand/shallow";
+import { ReactNode, useEffect } from 'react';
+import { UnloadHandler } from './unload-handler';
+import { draw } from './card-draw';
+import { Drawing } from './models/Drawing';
+import FuzzySearch from 'fuzzy-search';
+import { GameData, Song } from './models/SongData';
+import i18nData from './assets/i18n.json';
+import { availableGameData, detectedLanguage } from './utils';
+import { ApplyDefaultConfig } from './apply-default-config';
+import { ConfigState } from './config-state';
+import { IntlProvider } from './intl-provider';
+import * as qs from 'query-string';
+import createStore from 'zustand';
+import shallow from 'zustand/shallow';
 
 interface DrawState {
   gameData: GameData | null;
@@ -28,7 +28,7 @@ export const useDrawState = createStore<DrawState>((set, get) => ({
   gameData: null,
   fuzzySearch: null,
   drawings: [],
-  dataSetName: "",
+  dataSetName: '',
   lastDrawFailed: false,
   async loadGameData(dataSetName: string) {
     const state = get();
@@ -37,7 +37,7 @@ export const useDrawState = createStore<DrawState>((set, get) => ({
     }
     if (
       state.drawings.length &&
-      !confirm("This will clear all songs drawn so far. Confirm?")
+      !confirm('This will clear all songs drawn so far. Confirm?')
     ) {
       return state.gameData;
     }
@@ -48,9 +48,11 @@ export const useDrawState = createStore<DrawState>((set, get) => ({
     });
     writeDataSetToUrl(dataSetName);
 
-    const { default: data } = await import(
-      /* webpackChunkName: "songData" */ `./songs/${dataSetName}.json`
-    );
+    const data = (
+      await import(
+        /* webpackChunkName: "songData" */ `./songs/${dataSetName}.json`
+      )
+    ).default;
     set({
       dataSetName,
       gameData: data,
@@ -58,11 +60,11 @@ export const useDrawState = createStore<DrawState>((set, get) => ({
       fuzzySearch: new FuzzySearch(
         data.songs,
         [
-          "name",
-          "name_translation",
-          "search_hint",
-          "artist",
-          "artist_translation",
+          'name',
+          'name_translation',
+          'search_hint',
+          'artist',
+          'artist_translation',
         ],
         {
           sort: true,
@@ -100,7 +102,7 @@ interface Props {
 
 function getInitialDataSet(defaultDataName: string) {
   const hash = window.location.hash.slice(1);
-  if (hash.startsWith("game-")) {
+  if (hash.startsWith('game-')) {
     const targetData = hash.slice(5);
     if (availableGameData.some((d) => d.name === targetData)) {
       return targetData;
@@ -117,10 +119,10 @@ function getInitialDataSet(defaultDataName: string) {
 
 function writeDataSetToUrl(game: string) {
   const next = `game-${game}`;
-  if ("#" + next !== window.location.hash) {
+  if ('#' + next !== window.location.hash) {
     window.history.replaceState(
       undefined,
-      "",
+      '',
       qs.stringifyUrl({ url: window.location.href, fragmentIdentifier: next })
     );
   }
@@ -136,7 +138,7 @@ export function DrawStateManager(props: Props) {
   }, []);
 
   const allStrings = i18nData as Record<string, Record<string, string>>;
-  const useTranslations = allStrings[detectedLanguage] || allStrings["en"];
+  const useTranslations = allStrings[detectedLanguage] || allStrings['en'];
   const additionalStrings = gameData?.i18n[detectedLanguage];
   return (
     <IntlProvider

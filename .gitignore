@@ -3,6 +3,7 @@
 dist
 node_modules
 /*.zip
+.yarn/*
 
 scraper/Extreme Banners/
 
