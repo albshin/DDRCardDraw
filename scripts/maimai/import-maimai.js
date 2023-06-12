@@ -1,6 +1,10 @@
 const fetch = require('node-fetch');
 const path = require('path');
 const { writeJsonData } = require('../utils');
+const {
+  MAIMAI_FESTIVAL_UNLOCKS,
+  MAIMAI_UNIVERSE_PLUS_UNLOCKS,
+} = require('./unlockable-maimai-songs');
 
 const DATA_URL =
   'https://web.archive.org/web/20230316205106/https://maimai.sega.jp/data/maimai_songs.json';
@@ -41,13 +45,24 @@ function extractSong(rawSong) {
     );
   }
 
+  // Add unlockable flags
+  let flags = [];
+  if (MAIMAI_FESTIVAL_UNLOCKS.includes(rawSong.title)) {
+    flags.push('unlock');
+  }
+
+  if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.includes(rawSong.title)) {
+    flags.push('unlock_uni_plus');
+  }
+
   return {
     name: rawSong.title,
     artist: rawSong.artist.trim(),
     folder: version,
     category: rawSong.catcode,
-    jacket: rawSong.image_url,
+    jacket: `maimai/${rawSong.image_url}`,
     charts: extractCharts(rawSong),
+    flags,
   };
 }
 
