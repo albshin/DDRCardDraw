@@ -14,7 +14,7 @@ function extractSong(rawSong: Record<string, any>) {
     artist: rawSong.artist.trim(),
     folder: '',
     category: rawSong.catcode,
-    jacket: rawSong.image,
+    jacket: `chunithm/${rawSong.image}`,
     charts: extractSheets(rawSong),
   };
 }

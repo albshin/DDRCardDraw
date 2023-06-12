@@ -14,7 +14,7 @@
     "import:wacca": "ts-node scripts/wacca/import-wacca.ts",
     "import:wacca-jackets": "ts-node scripts/wacca/import-wacca-jackets.ts",
     "validate": "npm run validate:json && npm run validate:ts",
-    "validate:json": "node scripts/validate.js",
+    "validate:json": "ts-node scripts/validate.ts",
     "validate:ts": "tsc --noemit"
   },
   "author": "Noah Manneschmidt",
@@ -42,7 +42,9 @@
     "@types/download": "^8.0.2",
     "@types/fuzzy-search": "^2.1.0",
     "@types/hoist-non-react-statics": "3.3.1",
+    "@types/inquirer": "^9.0.3",
     "@types/node": "^20.3.0",
+    "@types/node-fetch": "^2.6.4",
     "@types/react": "17.0.54",
     "@types/react-dom": "17.0.20",
     "autoprefixer": "^10.4.14",

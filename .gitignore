@@ -3,7 +3,7 @@
 dist
 node_modules
 /*.zip
-.yarn/*
+.editorconfig
 
 scraper/Extreme Banners/
 
@@ -18,3 +18,12 @@ scraper/error\.txt
 scraper/masterlist\.csv
 
 cocoadraw/*
+
+.yarn
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

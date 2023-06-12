@@ -2668,6 +2668,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/inquirer@npm:^9.0.3":
+  version: 9.0.3
+  resolution: "@types/inquirer@npm:9.0.3"
+  dependencies:
+    "@types/through": "npm:*"
+    rxjs: "npm:^7.2.0"
+  checksum: 53c83de3eda8e36b95a1c747131d50f144ffbf432d0a208173de05c66ec982e3c809f775417517e329c6e39ca14af4aa880bbe85b1f9354f595c8838c89e87ed
+  languageName: node
+  linkType: hard
+
 "@types/istanbul-lib-coverage@npm:*, @types/istanbul-lib-coverage@npm:^2.0.0":
   version: 2.0.4
   resolution: "@types/istanbul-lib-coverage@npm:2.0.4"
@@ -2734,6 +2744,16 @@ __metadata:
   version: 3.0.5
   resolution: "@types/minimatch@npm:3.0.5"
   checksum: 1e3ad77c3a101452cb52919d33e5f47f13b4fe66a6566409e1b555b975831cf127fb9ee347d6d9d1648784dac816dc955f8766991de9c3de80a80cc15890c5f1
+  languageName: node
+  linkType: hard
+
+"@types/node-fetch@npm:^2.6.4":
+  version: 2.6.4
+  resolution: "@types/node-fetch@npm:2.6.4"
+  dependencies:
+    "@types/node": "npm:*"
+    form-data: "npm:^3.0.0"
+  checksum: cc84da43c897e8dfaebeebb6c4658425338ef39a1de76b859bf87332a0c38610219c3c8b2d72f10e1557a426c98605ba38fc112d34745d196b9be471d91fdd4b
   languageName: node
   linkType: hard
 
@@ -2871,6 +2891,15 @@ __metadata:
   dependencies:
     "@types/node": "npm:*"
   checksum: 5b500c1e863338b89b77f5c553a82f895f1273a2873905b7a8424d018bc9b2480064e081be13a9c533b359ed800a6de3f2b70330c820b716f76f6ce288d9ae76
+  languageName: node
+  linkType: hard
+
+"@types/through@npm:*":
+  version: 0.0.30
+  resolution: "@types/through@npm:0.0.30"
+  dependencies:
+    "@types/node": "npm:*"
+  checksum: 0aded384fa021481c050499bfaccecc7ef0c81b62fb7779c397ffe7468f39eebf6617e2a553dee835ebd15fd03db86cecfdaf051af0ce510d9edb8e21639947b
   languageName: node
   linkType: hard
 
@@ -4632,7 +4661,9 @@ __metadata:
     "@types/download": "npm:^8.0.2"
     "@types/fuzzy-search": "npm:^2.1.0"
     "@types/hoist-non-react-statics": "npm:3.3.1"
+    "@types/inquirer": "npm:^9.0.3"
     "@types/node": "npm:^20.3.0"
+    "@types/node-fetch": "npm:^2.6.4"
     "@types/react": "npm:17.0.54"
     "@types/react-dom": "npm:17.0.20"
     autoprefixer: "npm:^10.4.14"
@@ -5923,6 +5954,17 @@ __metadata:
     combined-stream: "npm:^1.0.6"
     mime-types: "npm:^2.1.12"
   checksum: 9163db247434cb612f94d27563ec5c19417fc15638f51502667d6f1133bc5b18bce1348aeaed6235c450e9885d8f4a43ea39e948404df7ff485a49a7a0ec84c9
+  languageName: node
+  linkType: hard
+
+"form-data@npm:^3.0.0":
+  version: 3.0.1
+  resolution: "form-data@npm:3.0.1"
+  dependencies:
+    asynckit: "npm:^0.4.0"
+    combined-stream: "npm:^1.0.8"
+    mime-types: "npm:^2.1.12"
+  checksum: 4ca2af6f04d3e3914b6ed8e5ea256da66c883bc2ae64651929f5eb842a47b6461fa51cd19c2a1d5ede09f5117593f2622814c34f8e0ac4869b91a4815c401753
   languageName: node
   linkType: hard
 
@@ -9742,7 +9784,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^7.8.1":
+"rxjs@npm:^7.2.0, rxjs@npm:^7.8.1":
   version: 7.8.1
   resolution: "rxjs@npm:7.8.1"
   dependencies:

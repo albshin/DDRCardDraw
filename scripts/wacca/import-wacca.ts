@@ -12,7 +12,7 @@ function extractSong(rawSong: Record<string, any>) {
     artist: rawSong.artist.trim(),
     folder: rawSong.version,
     category: rawSong.category,
-    jacket: rawSong.imageName,
+    jacket: `wacca/${rawSong.imageName}`,
     charts: extractSheets(rawSong),
   };
 }

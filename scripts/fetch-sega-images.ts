@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import download from 'download';
 import pqueue from 'p-queue';
+import { Song } from '../src/models/SongData';
 
 const requestQueue = new pqueue({
   concurrency: 6, // 6 concurrent max
@@ -11,7 +12,7 @@ const requestQueue = new pqueue({
 
 export default async function run(
   baseUrl: string,
-  songs: Record<string, any>[],
+  songs: Song[],
   headers?: Record<string, string>,
 ) {
   const coverImgDir = `src/assets/jackets`;
