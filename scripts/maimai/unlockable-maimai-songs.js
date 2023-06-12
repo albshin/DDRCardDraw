@@ -1,6 +1,6 @@
 const MAIMAI_FESTIVAL_UNLOCKS = [
   '康莊大道',
-  '"411Ψ892"',
+  '\"411Ψ892\"',
   '星見草',
   'Beat Opera op.1',
   '群青シグナル',
