@@ -17,7 +17,9 @@ and [FuriousDCSL](https://github.com/FuriousDCSL); and again forked. Contributio
 
 Requirements
 - Node 18
-- Yarn 4.x
+- Yarn 4.0.0-rc.40
+
+**If your PR fails Netlify deployment, please check that your Yarn version matches the required Yarn version exactly**
 
 Clone this repo to your computer. Then the following commands will be useful:
 
