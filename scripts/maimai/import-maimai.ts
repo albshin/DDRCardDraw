@@ -1,6 +1,7 @@
 import fetch from 'node-fetch';
 import path from 'path';
 import { writeJsonData } from '../utils';
+import { MAIMAI_FESTIVAL_UNLOCKS, MAIMAI_UNIVERSE_PLUS_UNLOCKS } from './unlockable-maimai-songs';
 
 const DATA_URL =
   'https://web.archive.org/web/20230316205106/https://maimai.sega.jp/data/maimai_songs.json';
@@ -41,6 +42,16 @@ function extractSong(rawSong: Record<string, any>) {
     );
   }
 
+  // Add unlockable flags
+  let flags = [];
+  if (MAIMAI_FESTIVAL_UNLOCKS.includes(rawSong.title)) {
+    flags.push('unlock');
+  }
+
+  if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.includes(rawSong.title)) {
+    flags.push('unlock_uni_plus');
+  }
+
   return {
     name: rawSong.title,
     artist: rawSong.artist.trim(),
@@ -48,6 +59,7 @@ function extractSong(rawSong: Record<string, any>) {
     category: rawSong.catcode,
     jacket: `maimai/${rawSong.image_url}`,
     charts: extractCharts(rawSong),
+    flags,
   };
 }
 

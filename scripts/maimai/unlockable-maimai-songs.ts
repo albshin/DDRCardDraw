@@ -1,4 +1,4 @@
-const MAIMAI_FESTIVAL_UNLOCKS = [
+export const MAIMAI_FESTIVAL_UNLOCKS = [
   '康莊大道',
   '\"411Ψ892\"',
   '星見草',
@@ -27,7 +27,7 @@ const MAIMAI_FESTIVAL_UNLOCKS = [
   'mystique as iris',
 ];
 
-const MAIMAI_UNIVERSE_PLUS_UNLOCKS = [
+export const MAIMAI_UNIVERSE_PLUS_UNLOCKS = [
   'Jouez Avec Moi?',
   "World's end loneliness",
   '白花の天使',
@@ -52,6 +52,3 @@ const MAIMAI_UNIVERSE_PLUS_UNLOCKS = [
   'Grip & Break down !!',
   'sølips',
 ];
-
-module.exports.MAIMAI_FESTIVAL_UNLOCKS = MAIMAI_FESTIVAL_UNLOCKS;
-module.exports.MAIMAI_UNIVERSE_PLUS_UNLOCKS = MAIMAI_UNIVERSE_PLUS_UNLOCKS;
