@@ -17,7 +17,7 @@
     ],
     "flags": ["std", "dx", "unlock", "unlock_uni_plus"],
     "lvlMax": 15,
-    "lastUpdated": 1686626741436
+    "lastUpdated": 1686627841571
   },
   "defaults": {
     "difficulties": ["expert", "master", "remaster"],
@@ -13249,7 +13249,7 @@
         { "flags": ["dx"], "diffClass": "expert", "lvl": 13.5 },
         { "flags": ["dx"], "diffClass": "master", "lvl": 14.5 }
       ],
-      "flags": ["unlock_uni_plus"]
+      "flags": []
     },
     {
       "name": "パーフェクション",
@@ -13529,7 +13529,7 @@
         { "flags": ["dx"], "diffClass": "expert", "lvl": 12 },
         { "flags": ["dx"], "diffClass": "master", "lvl": 13.5 }
       ],
-      "flags": ["unlock_uni_plus"]
+      "flags": []
     },
     {
       "name": "コスモポップファンクラブ",
@@ -13882,7 +13882,7 @@
         { "flags": ["dx"], "diffClass": "expert", "lvl": 13 },
         { "flags": ["dx"], "diffClass": "master", "lvl": 14 }
       ],
-      "flags": ["unlock_uni_plus"]
+      "flags": []
     },
     {
       "name": "オントロジー",
@@ -14246,7 +14246,7 @@
         { "flags": ["dx"], "diffClass": "expert", "lvl": 12.5 },
         { "flags": ["dx"], "diffClass": "master", "lvl": 14.5 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "Rising on the horizon",

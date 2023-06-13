@@ -20,7 +20,6 @@ export const MAIMAI_FESTIVAL_UNLOCKS = {
     '電光石火',
     '最強STRONGER',
     'Aegleseeker',
-    'mystique as iris',
   ],
   dxCharts: [
     'ケロ⑨destiny',
@@ -40,7 +39,6 @@ export const MAIMAI_UNIVERSE_PLUS_UNLOCKS = {
     "World's end loneliness",
     '白花の天使',
     'Metamorphosism',
-    'folern',
     'WiPE OUT MEMORIES',
     'OTOGEMA',
     'Sage',
@@ -51,12 +49,10 @@ export const MAIMAI_UNIVERSE_PLUS_UNLOCKS = {
     'HAGAKIRI',
     'Irresistible',
     'HECATONCHEIR',
-    "Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
     'Strive against fate',
     'パラマウント☆ショータイム！！',
     'ｉｓｏｐｈｏｔｅ',
     'ミルキースター・シューティングスター',
-    'sølips',
   ],
   dxCharts: ['セツナトリップ', 'Grip & Break down !!'],
 };
