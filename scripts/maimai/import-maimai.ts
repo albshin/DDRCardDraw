@@ -55,19 +55,25 @@ function extractSong(rawSong: Record<string, any>) {
   }
 
   const charts = extractCharts(rawSong).map((chart) => {
-    if (MAIMAI_FESTIVAL_UNLOCKS.dxCharts.includes(rawSong.title)) {
-      if (chart.flags.includes('dx')) {
-        return { ...chart, flags: ['dx', 'unlock'] };
-      }
-    } else if (MAIMAI_FESTIVAL_UNLOCKS.stdCharts.includes(rawSong.title)) {
-      if (chart.flags.includes('std')) {
-        return { ...chart, flags: ['std', 'unlock'] };
-      }
+    if (
+      MAIMAI_FESTIVAL_UNLOCKS.dxCharts.includes(rawSong.title) &&
+      chart.flags.includes('dx')
+    ) {
+      return { ...chart, flags: ['dx', 'unlock'] };
     }
-    if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.dxCharts.includes(rawSong.title)) {
-      if (chart.flags.includes('dx')) {
-        return { ...chart, flags: ['dx', 'unlock_uni_plus'] };
-      }
+
+    if (
+      MAIMAI_FESTIVAL_UNLOCKS.stdCharts.includes(rawSong.title) &&
+      chart.flags.includes('std')
+    ) {
+      return { ...chart, flags: ['std', 'unlock'] };
+    }
+
+    if (
+      MAIMAI_UNIVERSE_PLUS_UNLOCKS.dxCharts.includes(rawSong.title) &&
+      chart.flags.includes('dx')
+    ) {
+      return { ...chart, flags: ['dx', 'unlock_uni_plus'] };
     }
     return chart;
   });
