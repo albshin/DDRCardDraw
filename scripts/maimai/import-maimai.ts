@@ -43,7 +43,7 @@ function extractSong(rawSong: Record<string, any>) {
   }
 
   // Add unlockable flags
-  let flags = [];
+  const flags = [];
   if (MAIMAI_FESTIVAL_UNLOCKS.includes(rawSong.title)) {
     flags.push('unlock');
   }
