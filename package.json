@@ -7,14 +7,14 @@
     "start": "webpack serve --env dev=true",
     "build": "yarn validate && webpack",
     "build:zip": "webpack --env zip",
-    "import:maimai": "node scripts/maimai/import-maimai.js",
+    "import:maimai": "ts-node scripts/maimai/import-maimai.ts",
     "import:maimai-jackets": "ts-node scripts/maimai/import-maimai-jackets.ts",
     "import:chunithm": "ts-node scripts/chunithm/import-chunithm.ts",
     "import:chunithm-jackets": "ts-node scripts/chunithm/import-chunithm-jackets.ts",
     "import:wacca": "ts-node scripts/wacca/import-wacca.ts",
     "import:wacca-jackets": "ts-node scripts/wacca/import-wacca-jackets.ts",
     "validate": "npm run validate:json && npm run validate:ts",
-    "validate:json": "node scripts/validate.js",
+    "validate:json": "ts-node scripts/validate.ts",
     "validate:ts": "tsc --noemit"
   },
   "author": "Noah Manneschmidt",
@@ -42,7 +42,9 @@
     "@types/download": "^8.0.2",
     "@types/fuzzy-search": "^2.1.0",
     "@types/hoist-non-react-statics": "3.3.1",
+    "@types/inquirer": "^9.0.3",
     "@types/node": "^20.3.0",
+    "@types/node-fetch": "^2.6.4",
     "@types/react": "17.0.54",
     "@types/react-dom": "17.0.20",
     "autoprefixer": "^10.4.14",
@@ -87,7 +89,7 @@
     "simfile-parser": "^0.4.0",
     "style-loader": "^3.3.1",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.0",
+    "typescript": "^5.1.3",
     "victory": "^36.6.10",
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.0",
@@ -100,5 +102,6 @@
   "resolutions": {
     "loader-utils": "^2.0.0",
     "xml2js": "^0.5.0"
-  }
+  },
+  "packageManager": "yarn@4.0.0-rc.40"
 }
