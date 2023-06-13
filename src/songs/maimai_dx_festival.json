@@ -17,7 +17,7 @@
     ],
     "flags": ["std", "dx", "unlock", "unlock_uni_plus"],
     "lvlMax": 15,
-    "lastUpdated": 1686540129399
+    "lastUpdated": 1686626741436
   },
   "defaults": {
     "difficulties": ["expert", "master", "remaster"],
@@ -1477,16 +1477,16 @@
       "category": "niconico＆ボーカロイド",
       "jacket": "maimai/813d4e599de416c0.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 3 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 6 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 10 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock"], "diffClass": "basic", "lvl": 3 },
+        { "flags": ["dx", "unlock"], "diffClass": "advanced", "lvl": 6 },
+        { "flags": ["dx", "unlock"], "diffClass": "expert", "lvl": 10 },
+        { "flags": ["dx", "unlock"], "diffClass": "master", "lvl": 13 },
         { "flags": ["std"], "diffClass": "basic", "lvl": 3 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 7.5 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 10.5 },
         { "flags": ["std"], "diffClass": "master", "lvl": 12.5 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "脳漿炸裂ガール",
@@ -1527,16 +1527,28 @@
       "category": "niconico＆ボーカロイド",
       "jacket": "maimai/4cdf81639751cc7f.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 2 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 7.5 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 10.5 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock_uni_plus"], "diffClass": "basic", "lvl": 2 },
+        {
+          "flags": ["dx", "unlock_uni_plus"],
+          "diffClass": "advanced",
+          "lvl": 7.5
+        },
+        {
+          "flags": ["dx", "unlock_uni_plus"],
+          "diffClass": "expert",
+          "lvl": 10.5
+        },
+        {
+          "flags": ["dx", "unlock_uni_plus"],
+          "diffClass": "master",
+          "lvl": 13
+        },
         { "flags": ["std"], "diffClass": "basic", "lvl": 5 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 7 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 11 },
         { "flags": ["std"], "diffClass": "master", "lvl": 13 }
       ],
-      "flags": ["unlock_uni_plus"]
+      "flags": []
     },
     {
       "name": "放課後ストライド",
@@ -1617,16 +1629,24 @@
       "category": "東方Project",
       "jacket": "maimai/3cdafcda11978c26.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 5 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 7 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 9 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock_uni_plus"], "diffClass": "basic", "lvl": 5 },
+        {
+          "flags": ["dx", "unlock_uni_plus"],
+          "diffClass": "advanced",
+          "lvl": 7
+        },
+        { "flags": ["dx", "unlock_uni_plus"], "diffClass": "expert", "lvl": 9 },
+        {
+          "flags": ["dx", "unlock_uni_plus"],
+          "diffClass": "master",
+          "lvl": 13
+        },
         { "flags": ["std"], "diffClass": "basic", "lvl": 4 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 7 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 9.5 },
         { "flags": ["std"], "diffClass": "master", "lvl": 13 }
       ],
-      "flags": ["unlock_uni_plus"]
+      "flags": []
     },
     {
       "name": "Help me, ERINNNNNN!!",
@@ -2017,16 +2037,16 @@
       "category": "maimai",
       "jacket": "maimai/4f5af85242e1b088.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 4 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 7.5 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 12 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 14 },
+        { "flags": ["dx", "unlock"], "diffClass": "basic", "lvl": 4 },
+        { "flags": ["dx", "unlock"], "diffClass": "advanced", "lvl": 7.5 },
+        { "flags": ["dx", "unlock"], "diffClass": "expert", "lvl": 12 },
+        { "flags": ["dx", "unlock"], "diffClass": "master", "lvl": 14 },
         { "flags": ["std"], "diffClass": "basic", "lvl": 5 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 9 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 12 },
         { "flags": ["std"], "diffClass": "master", "lvl": 13.5 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "ユビキリ",
@@ -2763,16 +2783,16 @@
       "category": "東方Project",
       "jacket": "maimai/770423fd2e706318.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 3 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 6 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 10 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock"], "diffClass": "basic", "lvl": 3 },
+        { "flags": ["dx", "unlock"], "diffClass": "advanced", "lvl": 6 },
+        { "flags": ["dx", "unlock"], "diffClass": "expert", "lvl": 10 },
+        { "flags": ["dx", "unlock"], "diffClass": "master", "lvl": 13 },
         { "flags": ["std"], "diffClass": "basic", "lvl": 4 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 7 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 10.5 },
         { "flags": ["std"], "diffClass": "master", "lvl": 12.5 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "Endless, Sleepless Night",
@@ -2923,16 +2943,16 @@
       "category": "niconico＆ボーカロイド",
       "jacket": "maimai/c0ee52db4c23afe7.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 3 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 7 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 9.5 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock"], "diffClass": "basic", "lvl": 3 },
+        { "flags": ["dx", "unlock"], "diffClass": "advanced", "lvl": 7 },
+        { "flags": ["dx", "unlock"], "diffClass": "expert", "lvl": 9.5 },
+        { "flags": ["dx", "unlock"], "diffClass": "master", "lvl": 13 },
         { "flags": ["std"], "diffClass": "basic", "lvl": 3 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 7.5 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 10.5 },
         { "flags": ["std"], "diffClass": "master", "lvl": 12 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "東方スイーツ！～鬼畜姉妹と受難メイド～",
@@ -3766,16 +3786,16 @@
       "category": "東方Project",
       "jacket": "maimai/8a92c33de72a570b.png",
       "charts": [
-        { "flags": ["dx"], "diffClass": "basic", "lvl": 2 },
-        { "flags": ["dx"], "diffClass": "advanced", "lvl": 7 },
-        { "flags": ["dx"], "diffClass": "expert", "lvl": 10 },
-        { "flags": ["dx"], "diffClass": "master", "lvl": 13 },
+        { "flags": ["dx", "unlock"], "diffClass": "basic", "lvl": 2 },
+        { "flags": ["dx", "unlock"], "diffClass": "advanced", "lvl": 7 },
+        { "flags": ["dx", "unlock"], "diffClass": "expert", "lvl": 10 },
+        { "flags": ["dx", "unlock"], "diffClass": "master", "lvl": 13 },
         { "flags": ["std"], "diffClass": "basic", "lvl": 5 },
         { "flags": ["std"], "diffClass": "advanced", "lvl": 6 },
         { "flags": ["std"], "diffClass": "expert", "lvl": 9.5 },
         { "flags": ["std"], "diffClass": "master", "lvl": 12.5 }
       ],
-      "flags": ["unlock"]
+      "flags": []
     },
     {
       "name": "LOL -lots of laugh-",
@@ -8624,10 +8644,10 @@
         { "flags": ["dx"], "diffClass": "advanced", "lvl": 8 },
         { "flags": ["dx"], "diffClass": "expert", "lvl": 13 },
         { "flags": ["dx"], "diffClass": "master", "lvl": 14.5 },
-        { "flags": ["std"], "diffClass": "basic", "lvl": 6 },
-        { "flags": ["std"], "diffClass": "advanced", "lvl": 8 },
-        { "flags": ["std"], "diffClass": "expert", "lvl": 12.5 },
-        { "flags": ["std"], "diffClass": "master", "lvl": 14 }
+        { "flags": ["std", "unlock"], "diffClass": "basic", "lvl": 6 },
+        { "flags": ["std", "unlock"], "diffClass": "advanced", "lvl": 8 },
+        { "flags": ["std", "unlock"], "diffClass": "expert", "lvl": 12.5 },
+        { "flags": ["std", "unlock"], "diffClass": "master", "lvl": 14 }
       ],
       "flags": []
     },

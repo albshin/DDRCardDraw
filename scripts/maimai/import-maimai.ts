@@ -1,7 +1,10 @@
 import fetch from 'node-fetch';
 import path from 'path';
 import { writeJsonData } from '../utils';
-import { MAIMAI_FESTIVAL_UNLOCKS, MAIMAI_UNIVERSE_PLUS_UNLOCKS } from './unlockable-maimai-songs';
+import {
+  MAIMAI_FESTIVAL_UNLOCKS,
+  MAIMAI_UNIVERSE_PLUS_UNLOCKS,
+} from './unlockable-maimai-songs';
 
 const DATA_URL =
   'https://web.archive.org/web/20230316205106/https://maimai.sega.jp/data/maimai_songs.json';
@@ -42,15 +45,32 @@ function extractSong(rawSong: Record<string, any>) {
     );
   }
 
-  // Add unlockable flags
   const flags = [];
-  if (MAIMAI_FESTIVAL_UNLOCKS.includes(rawSong.title)) {
+  if (MAIMAI_FESTIVAL_UNLOCKS.songs.includes(rawSong.title)) {
     flags.push('unlock');
   }
 
-  if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.includes(rawSong.title)) {
+  if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.songs.includes(rawSong.title)) {
     flags.push('unlock_uni_plus');
   }
+
+  const charts = extractCharts(rawSong).map((chart) => {
+    if (MAIMAI_FESTIVAL_UNLOCKS.dxCharts.includes(rawSong.title)) {
+      if (chart.flags.includes('dx')) {
+        return { ...chart, flags: ['dx', 'unlock'] };
+      }
+    } else if (MAIMAI_FESTIVAL_UNLOCKS.stdCharts.includes(rawSong.title)) {
+      if (chart.flags.includes('std')) {
+        return { ...chart, flags: ['std', 'unlock'] };
+      }
+    }
+    if (MAIMAI_UNIVERSE_PLUS_UNLOCKS.dxCharts.includes(rawSong.title)) {
+      if (chart.flags.includes('dx')) {
+        return { ...chart, flags: ['dx', 'unlock_uni_plus'] };
+      }
+    }
+    return chart;
+  });
 
   return {
     name: rawSong.title,
@@ -58,7 +78,7 @@ function extractSong(rawSong: Record<string, any>) {
     folder: version,
     category: rawSong.catcode,
     jacket: `maimai/${rawSong.image_url}`,
-    charts: extractCharts(rawSong),
+    charts,
     flags,
   };
 }
@@ -97,7 +117,9 @@ async function run() {
   const rawSongs = await response.json();
   console.info(`OK, ${rawSongs.length} songs fetched.`);
 
-  const songs = rawSongs.map((rawSong: Record<string, any>) => extractSong(rawSong));
+  const songs = rawSongs.map((rawSong: Record<string, any>) =>
+    extractSong(rawSong)
+  );
   const filePath = path.join(__dirname, '../../', OUTFILE);
   const existingData = require(filePath);
 
