@@ -290,9 +290,6 @@ function GeneralSettings() {
 
   const handleLowerBoundChange = (newLow: number) => {
     if (newLow !== lowerBound && !isNaN(newLow)) {
-      if (newLow > upperBound) {
-        newLow = upperBound;
-      }
       setNextStateStep("lowerBound", newLow);
     }
   };
@@ -382,8 +379,8 @@ function GeneralSettings() {
             inputMode="numeric"
             value={useGranularLevels ? lowerBound.toFixed(2) : lowerBound}
             min={availableLevels[0]}
-            max={Math.max(upperBound, lowerBound, 1)}
-            stepSize={useGranularLevels ? granularIncrement.valueOf() : 1}
+            max={availableLevels[availableLevels.length - 1]}
+            stepSize={useGranularLevels ? granularIncrement.valueOf() : 0.1}
             minorStepSize={null}
             majorStepSize={useGranularLevels ? 1 : null}
             onValueChange={handleLowerBoundChange}
@@ -403,9 +400,9 @@ function GeneralSettings() {
             type="number"
             inputMode="numeric"
             value={useGranularLevels ? upperBound.toFixed(2) : upperBound}
-            min={lowerBound}
+            min={availableLevels[0]}
             max={availableLevels[availableLevels.length - 1]}
-            stepSize={useGranularLevels ? granularIncrement.valueOf() : 1}
+            stepSize={useGranularLevels ? granularIncrement.valueOf() : 0.1}
             minorStepSize={null}
             majorStepSize={useGranularLevels ? 1 : null}
             onValueChange={handleUpperBoundChange}
