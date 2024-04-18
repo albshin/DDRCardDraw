@@ -226,12 +226,6 @@
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
-        },
-        {
-          "lvl": 13.1,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
         }
       ]
     },
