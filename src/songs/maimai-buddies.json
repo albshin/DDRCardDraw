@@ -33,13 +33,13 @@
       "FESTiVAL PLUS",
       "BUDDiES"
     ],
-    "flags": ["std", "dx"],
+    "flags": ["std", "dx", "buddies_remaster", "removed"],
     "lastUpdated": 1711759325965
   },
   "defaults": {
     "style": "single",
     "difficulties": ["expert", "master", "remaster"],
-    "flags": ["std", "dx"],
+    "flags": ["std", "dx", "buddies_remaster"],
     "lowerLvlBound": 13,
     "upperLvlBound": 14
   },
@@ -54,6 +54,8 @@
       "remaster": "Re:MASTER",
       "std": "Standard Charts",
       "dx": "DX Charts",
+      "buddies_remaster": "BUDDiES Re:MASTER",
+      "removed": "Removed",
       "$abbr": {
         "basic": "BAS",
         "advanced": "ADV",
@@ -2424,7 +2426,7 @@
           "lvl": 13.5,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["std"]
+          "flags": ["std", "buddies_remaster"]
         }
       ]
     },
@@ -7236,7 +7238,7 @@
           "lvl": 13.3,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["std"]
+          "flags": ["std", "buddies_remaster"]
         }
       ]
     },
@@ -14839,6 +14841,7 @@
       "bpm": "145",
       "folder": "MiLK",
       "jacket": "maimai/669.png",
+      "flags": ["removed"],
       "charts": [
         {
           "lvl": 4.0,
@@ -15103,6 +15106,7 @@
       "bpm": "147",
       "folder": "MiLK",
       "jacket": "maimai/678.png",
+      "flags": ["removed"],
       "charts": [
         {
           "lvl": 4.0,
@@ -15136,6 +15140,7 @@
       "bpm": "240",
       "folder": "MiLK",
       "jacket": "maimai/679.png",
+      "flags": ["removed"],
       "charts": [
         {
           "lvl": 4.0,
@@ -15664,6 +15669,7 @@
       "bpm": "168",
       "folder": "MiLK",
       "jacket": "maimai/697.png",
+      "flags": ["removed"],
       "charts": [
         {
           "lvl": 5.0,
@@ -21951,7 +21957,7 @@
           "lvl": 13.3,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["dx"]
+          "flags": ["dx", "buddies_remaster"]
         }
       ]
     },
@@ -21990,7 +21996,7 @@
           "lvl": 12.3,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["dx"]
+          "flags": ["dx", "buddies_remaster"]
         }
       ]
     },
@@ -22062,7 +22068,7 @@
           "lvl": 14.0,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["dx"]
+          "flags": ["dx", "buddies_remaster"]
         }
       ]
     },
@@ -27957,7 +27963,7 @@
           "lvl": 13.7,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["dx"]
+          "flags": ["dx", "buddies_remaster"]
         }
       ]
     },
