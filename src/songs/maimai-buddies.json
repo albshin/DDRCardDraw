@@ -131,105 +131,6 @@
       ]
     },
     {
-      "name": "LOVE & JOY",
-      "artist": "木村由姬 [cover]",
-      "bpm": "173",
-      "folder": "maimai",
-      "jacket": "maimai/10.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "じょいふる",
-      "artist": "生物股长 [cover]",
-      "bpm": "159",
-      "folder": "maimai",
-      "jacket": "maimai/11.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Everyday、カチューシャ",
-      "artist": "AKB48 [PV]",
-      "bpm": "172.4",
-      "folder": "maimai",
-      "jacket": "maimai/15.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "Future",
       "artist": "★STAR GUiTAR [cover]",
       "bpm": "130",
@@ -295,72 +196,6 @@
         },
         {
           "lvl": 11.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "恋愛サーキュレーション",
-      "artist": "「化物語」[cover]",
-      "bpm": "120",
-      "folder": "maimai",
-      "jacket": "maimai/20.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "コネクト",
-      "artist": "ClariS　「魔法少女まどか☆マギカ」",
-      "bpm": "175",
-      "folder": "maimai",
-      "jacket": "maimai/21.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.3,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -551,39 +386,6 @@
       ]
     },
     {
-      "name": "VICTORY",
-      "artist": "EXILE",
-      "bpm": "130",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/29.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "ネコ日和。",
       "artist": "Kai/能登有沙",
       "bpm": "171",
@@ -643,39 +445,6 @@
         },
         {
           "lvl": 12.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Garden",
-      "artist": "May J. [cover]",
-      "bpm": "99.97",
-      "folder": "maimai",
-      "jacket": "maimai/34.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -782,39 +551,6 @@
       ]
     },
     {
-      "name": "Chu Chu",
-      "artist": "moumoon 沐月 [PV]",
-      "bpm": "98",
-      "folder": "maimai",
-      "jacket": "maimai/41.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "jelly",
       "artist": "capsule [cover]",
       "bpm": "128",
@@ -848,39 +584,6 @@
       ]
     },
     {
-      "name": "愛を止めないで ",
-      "artist": "倖田來未 [PV]",
-      "bpm": "83",
-      "folder": "maimai",
-      "jacket": "maimai/43.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "ハッピーシンセサイザ",
       "artist": "EasyPop",
       "bpm": "127",
@@ -907,39 +610,6 @@
         },
         {
           "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Choo Choo Train",
-      "artist": "EXILE [PV]",
-      "bpm": "115",
-      "folder": "GreeN",
-      "jacket": "maimai/45.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -1019,39 +689,6 @@
       ]
     },
     {
-      "name": "アイデンティティ",
-      "artist": "Sakanaction [cover]",
-      "bpm": "140",
-      "folder": "maimai",
-      "jacket": "maimai/49.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "美しく燃える森",
       "artist": "東京スカパラダイスオーケストラ [cover]",
       "bpm": "140",
@@ -1078,72 +715,6 @@
         },
         {
           "lvl": 10.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ヘビーローテーション ",
-      "artist": "AKB48 [PV]",
-      "bpm": "178",
-      "folder": "maimai",
-      "jacket": "maimai/54.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "CAN'T GET BACK ",
-      "artist": "w-inds. [PV]",
-      "bpm": "140",
-      "folder": "maimai",
-      "jacket": "maimai/55.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -1218,72 +789,6 @@
           "lvl": 13.4,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "PON PON PON ",
-      "artist": "Kyarypamyupamyu [PV]",
-      "bpm": "128",
-      "folder": "maimai",
-      "jacket": "maimai/59.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "New World",
-      "artist": "w-inds. [PV]",
-      "bpm": "127",
-      "folder": "maimai",
-      "jacket": "maimai/60.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
           "flags": ["std"]
         }
       ]
@@ -2819,72 +2324,6 @@
       ]
     },
     {
-      "name": "つけまつける",
-      "artist": "Kyarypamyupamyu [PV]",
-      "bpm": "145",
-      "folder": "maimai PLUS",
-      "jacket": "maimai/126.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Get Off of My Way",
-      "artist": "MAN WITH A MISSION[PV]",
-      "bpm": "135",
-      "folder": "maimai PLUS",
-      "jacket": "maimai/127.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "御旗のもとに",
       "artist": "「サクラ大戦」",
       "bpm": "147",
@@ -3554,72 +2993,6 @@
       ]
     },
     {
-      "name": "サブリナ",
-      "artist": "家入レオ[PV]",
-      "bpm": "136",
-      "folder": "maimai PLUS",
-      "jacket": "maimai/148.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "SPELL MAGIC",
-      "artist": "Acid Black Cherry [PV]",
-      "bpm": "180",
-      "folder": "maimai PLUS",
-      "jacket": "maimai/149.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "超絶！Superlative",
       "artist": "Keitarou Hanada「戦国大戦」",
       "bpm": "200",
@@ -3824,369 +3197,6 @@
       ]
     },
     {
-      "name": "CANDY CANDY",
-      "artist": "Kyarypamyupamyu [PV]",
-      "bpm": "130",
-      "folder": "maimai PLUS",
-      "jacket": "maimai/161.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "READY STEADY GO",
-      "artist": "L'Arc～en～Ciel[cover]",
-      "bpm": "144",
-      "folder": "GreeN",
-      "jacket": "maimai/164.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "リライト",
-      "artist": "ASIAN KUNG-FU GENERATION[cover]",
-      "bpm": "179",
-      "folder": "GreeN",
-      "jacket": "maimai/165.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "カルマ",
-      "artist": "BUMP OF CHICKEN[cover]",
-      "bpm": "195",
-      "folder": "GreeN",
-      "jacket": "maimai/166.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "GO!!!",
-      "artist": "FLOW/「NARUTO」[cover]",
-      "bpm": "134.1",
-      "folder": "GreeN",
-      "jacket": "maimai/167.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "LOVEドッきゅん♥",
-      "artist": "club Prince[cover]",
-      "bpm": "149",
-      "folder": "GreeN",
-      "jacket": "maimai/168.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "galaxias!",
-      "artist": "galaxias![PV]",
-      "bpm": "123",
-      "folder": "GreeN",
-      "jacket": "maimai/169.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "女々しくて",
-      "artist": "ゴールデンボンバー[PV]",
-      "bpm": "143",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/172.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "サラバ、愛しき悲しみたちよ",
-      "artist": "ももいろクローバーZ[PV]",
-      "bpm": "168",
-      "folder": "GreeN",
-      "jacket": "maimai/173.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "創聖のアクエリオン",
-      "artist": "AKINO[cover]",
-      "bpm": "151",
-      "folder": "GreeN",
-      "jacket": "maimai/174.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Butter-Fly",
-      "artist": "和田光司[cover]",
-      "bpm": "165.1",
-      "folder": "GreeN",
-      "jacket": "maimai/176.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "君の知らない物語",
       "artist": "supercell「化物語」",
       "bpm": "165",
@@ -4213,39 +3223,6 @@
         },
         {
           "lvl": 11.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "残酷な天使のテーゼ",
-      "artist": "高橋洋子[cover]",
-      "bpm": "128.235",
-      "folder": "GreeN",
-      "jacket": "maimai/182.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -6830,72 +5807,6 @@
       ]
     },
     {
-      "name": "RPG",
-      "artist": "SEKAI NO OWARI",
-      "bpm": "135",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/274.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Tachyon",
-      "artist": "mamenoi(MANYO & やなぎなぎ)",
-      "bpm": "176",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/277.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.9,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "レッツゴー!陰陽師",
       "artist": "「新豪血寺一族 -煩悩解放-」",
       "bpm": "150",
@@ -8462,138 +7373,6 @@
       ]
     },
     {
-      "name": "GO MY WAY!!",
-      "artist": "ナムコエンジェル「アイドルマスター」",
-      "bpm": "180",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/333.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "THE IDOLM@STER 2nd-mix",
-      "artist": "ナムコエンジェル「アイドルマスター」",
-      "bpm": "168",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/334.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "The world is all one !!",
-      "artist": "ナムコエンジェル「アイドルマスター」",
-      "bpm": "167",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/335.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "紅蓮の弓矢",
-      "artist": "Linked Horizon「進撃の巨人」 [アニメPV]",
-      "bpm": "180",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/336.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "鼓動",
       "artist": "青木 千紘「龍が如く 維新！」",
       "bpm": "121",
@@ -8627,39 +7406,6 @@
       ]
     },
     {
-      "name": "リクライム",
-      "artist": "ROOKiEZ is PUNK'D「弱虫ペダル」[アニメPV]",
-      "bpm": "188",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/338.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "DRAGONLADY",
       "artist": "Nankumo/CUBE3",
       "bpm": "150",
@@ -8686,39 +7432,6 @@
         },
         {
           "lvl": 14.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "恋のヒメヒメぺったんこ",
-      "artist": "姫野湖鳥(CV 田村ゆかり)「弱虫ペダル」",
-      "bpm": "178",
-      "folder": "GreeN PLUS",
-      "jacket": "maimai/340.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -9122,105 +7835,6 @@
       ]
     },
     {
-      "name": "1/3の純情な感情",
-      "artist": "SIAM SHADE [covered by 湯毛]",
-      "bpm": "152",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/356.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "みかんのうた",
-      "artist": "SEX MACHINEGUNS[cover]",
-      "bpm": "288",
-      "folder": "ORANGE",
-      "jacket": "maimai/357.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "毒占欲",
-      "artist": "DECO*27",
-      "bpm": "117",
-      "folder": "ORANGE",
-      "jacket": "maimai/358.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.6,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "YU-MU",
       "artist": "岸田教団＆THE明星ロケッツ",
       "bpm": "160",
@@ -9503,171 +8117,6 @@
       ]
     },
     {
-      "name": "シリウス",
-      "artist": "藍井エイル「キルラキル」[アニメPV]",
-      "bpm": "176",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/368.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ほとんど違法行為",
-      "artist": "ネコネコカワイイ「ニンジャスレイヤー」",
-      "bpm": "128",
-      "folder": "ORANGE",
-      "jacket": "maimai/369.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "naraku within",
-      "artist": "藤澤健至(Team-MAX)「ニンジャスレイヤー」",
-      "bpm": "130",
-      "folder": "ORANGE",
-      "jacket": "maimai/370.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Stand Up!!!!",
-      "artist": "鈴木結愛(CV:西 明日香)/佐藤陽菜(CV:明坂聡美)/高橋 葵(CV:荻野可鈴)/田中心春(CV:大橋彩香)/「てさぐれ！部活もの」 [アニメPV]",
-      "bpm": "185",
-      "folder": "ORANGE",
-      "jacket": "maimai/371.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ファミリーパーティー",
-      "artist": "きゃりーぱみゅぱみゅ[PV]",
-      "bpm": "142",
-      "folder": "ORANGE",
-      "jacket": "maimai/372.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "アンハッピーリフレイン",
       "artist": "wowaka",
       "bpm": "205",
@@ -9760,39 +8209,6 @@
         },
         {
           "lvl": 13.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "おいでよ！妖精の森",
-      "artist": "「gdgd妖精s」",
-      "bpm": "220",
-      "folder": "ORANGE",
-      "jacket": "maimai/377.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -10247,72 +8663,6 @@
       ]
     },
     {
-      "name": "Can Do",
-      "artist": "GRANRODEO[PV]",
-      "bpm": "200",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/397.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "The Other self",
-      "artist": "GRANRODEO[PV]",
-      "bpm": "150",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/398.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "不毛！",
       "artist": "ぽてんしゃる0",
       "bpm": "200",
@@ -10412,39 +8762,6 @@
       ]
     },
     {
-      "name": "ニブンノイチ",
-      "artist": "BACK-ON[cover]",
-      "bpm": "125",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/402.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "悪戯",
       "artist": "ろん×田中秀和(MONACA)",
       "bpm": "140",
@@ -10504,72 +8821,6 @@
         },
         {
           "lvl": 13.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "カノン",
-      "artist": "宮野真守[PV]",
-      "bpm": "208",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/405.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "オルフェ",
-      "artist": "宮野真守[PV]",
-      "bpm": "184",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/406.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -10847,39 +9098,6 @@
       ]
     },
     {
-      "name": "ココロオドル",
-      "artist": "nobodyknows+[cover]",
-      "bpm": "226",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/416.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.9,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "ウミユリ海底譚",
       "artist": "n-buna",
       "bpm": "120",
@@ -11071,39 +9289,6 @@
         },
         {
           "lvl": 13.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "SAVIOR OF SONG",
-      "artist": "ナノ feat.MY FIRST STORY",
-      "bpm": "192",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/423.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.1,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -11540,171 +9725,6 @@
       ]
     },
     {
-      "name": "Pursuing My True Self",
-      "artist": "目黒 将司",
-      "bpm": "119",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/441.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Signs Of Love (“Never More” ver.)",
-      "artist": "目黒 将司",
-      "bpm": "109",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/442.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "specialist (“Never More” ver.)",
-      "artist": "目黒 将司",
-      "bpm": "128",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/443.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Time To Make History (AKIRA YAMAOKA Remix)",
-      "artist": "目黒 将司 Remixed by 山岡 晃",
-      "bpm": "190",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/444.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.3,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "シャープの洗濯機を",
-      "artist": "Hiro feat. しゃべる洗濯機 ES-Z200",
-      "bpm": "205",
-      "folder": "ORANGE PLUS",
-      "jacket": "maimai/445.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "GEMINI -M-",
       "artist": "Tatsh",
       "bpm": "180",
@@ -11830,39 +9850,6 @@
         },
         {
           "lvl": 12.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "絵の上手かった友達",
-      "artist": "ピノキオピー",
-      "bpm": "128",
-      "folder": "PiNK",
-      "jacket": "maimai/450.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.9,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.4,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -12443,72 +10430,6 @@
       ]
     },
     {
-      "name": "ひみつをちょーだい",
-      "artist": "アルスマグナ",
-      "bpm": "160",
-      "folder": "PiNK",
-      "jacket": "maimai/469.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Touch Tap Baby",
-      "artist": "ハッカドール",
-      "bpm": "162",
-      "folder": "PiNK",
-      "jacket": "maimai/470.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "オモイヨシノ",
       "artist": "loos feat. 柊莉杏",
       "bpm": "168",
@@ -12581,144 +10502,6 @@
       ]
     },
     {
-      "name": "ゲラゲラポーのうた",
-      "artist": "キング・クリームソーダ「妖怪ウォッチ」",
-      "bpm": "120",
-      "folder": "PiNK",
-      "jacket": "maimai/473.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "秘密の扉から会いにきて",
-      "artist": "田村 ゆかり「のうりん」",
-      "bpm": "184",
-      "folder": "PiNK",
-      "jacket": "maimai/474.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "かくしん的☆めたまるふぉ～ぜっ！",
-      "artist": "土間うまる [CV.田中あいみ]「干物妹！うまるちゃん」",
-      "bpm": "139",
-      "folder": "PiNK",
-      "jacket": "maimai/475.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.7,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "極上スマイル",
-      "artist": "Wake Up, Girls！",
-      "bpm": "143",
-      "folder": "PiNK",
-      "jacket": "maimai/476.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "厨病激発ボーイ",
       "artist": "れるりり",
       "bpm": "190",
@@ -12752,39 +10535,6 @@
       ]
     },
     {
-      "name": "Dragon Night",
-      "artist": "SEKAI NO OWARI",
-      "bpm": "124",
-      "folder": "PiNK",
-      "jacket": "maimai/479.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "HIMITSUスパーク",
       "artist": "カラスは真っ白",
       "bpm": "156",
@@ -12811,39 +10561,6 @@
         },
         {
           "lvl": 13.2,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "でんでんぱっしょん",
-      "artist": "でんぱ組.Inc",
-      "bpm": "186",
-      "folder": "PiNK",
-      "jacket": "maimai/481.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -12917,138 +10634,6 @@
       ]
     },
     {
-      "name": "Luminize",
-      "artist": "fripSide「フューチャーカード バディファイト ハンドレッド」",
-      "bpm": "140",
-      "folder": "PiNK",
-      "jacket": "maimai/484.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Falling Roses",
-      "artist": "シンガンクリムゾンズ「SHOW BY ROCK!!」",
-      "bpm": "200",
-      "folder": "PiNK",
-      "jacket": "maimai/485.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "青春はNon-Stop！",
-      "artist": "プラズマジカ「SHOW BY ROCK!!」",
-      "bpm": "172",
-      "folder": "PiNK",
-      "jacket": "maimai/486.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ようかい体操第一",
-      "artist": "Dream5「妖怪ウォッチ」",
-      "bpm": "125",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/487.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "Lividi",
       "artist": "Feryquitous",
       "bpm": "191",
@@ -13108,39 +10693,6 @@
         },
         {
           "lvl": 13.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ヘタリアン☆ジェット",
-      "artist": "イタリア (CV.浪川大輔)「ヘタリア The World Twinkle」",
-      "bpm": "132",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/491.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -13345,276 +10897,6 @@
         },
         {
           "lvl": 13.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "夏にキスしていいですか？",
-      "artist": "アルスマグナ",
-      "bpm": "160",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/498.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "夏祭り",
-      "artist": "Jitterin' Jinn [covered by ろん]",
-      "bpm": "141",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/499.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "シュガーソングとビターステップ",
-      "artist": "UNISON SQUARE GARDEN",
-      "bpm": "132",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/500.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Daydream café",
-      "artist": "Petit Rabbit's「ご注文はうさぎですか？」",
-      "bpm": "150",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/501.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.1,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Scatman (Ski Ba Bop Ba Dop Bop)",
-      "artist": "Scatman John",
-      "bpm": "136",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/502.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "イチズレシピ",
-      "artist": "アイドルカレッジ「俺がお嬢様学校に「庶民サンプル」としてゲッツされた件」",
-      "bpm": "170",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/503.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ふ・れ・ん・ど・し・た・い",
-      "artist": "学園生活部「がっこうぐらし！」",
-      "bpm": "148",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/504.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！",
-      "artist": "七森中☆ごらく部「ゆるゆり さん☆ハイ！」",
-      "bpm": "190",
-      "folder": "MURASAKi",
-      "jacket": "maimai/505.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.8,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -14149,39 +11431,6 @@
         },
         {
           "lvl": 13.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Mr. Wonderland",
-      "artist": "sasakure.UK",
-      "bpm": "140",
-      "folder": "PiNK PLUS",
-      "jacket": "maimai/522.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.2,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -14894,39 +12143,6 @@
       ]
     },
     {
-      "name": "ゆりゆららららゆるゆり大事件",
-      "artist": "七森中☆ごらく部「ゆるゆり」",
-      "bpm": "175",
-      "folder": "MURASAKi",
-      "jacket": "maimai/544.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "フォルテシモBELL",
       "artist": "天王洲 なずな(CV:山本 彩乃)",
       "bpm": "121",
@@ -15019,72 +12235,6 @@
         },
         {
           "lvl": 13.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "PERFECT HUMAN",
-      "artist": "RADIO FISH",
-      "bpm": "128",
-      "folder": "MURASAKi",
-      "jacket": "maimai/550.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "ファッとして桃源郷",
-      "artist": "新庄かなえ(CV:三森すずこ)「てーきゅう」",
-      "bpm": "160",
-      "folder": "MURASAKi",
-      "jacket": "maimai/551.png",
-      "charts": [
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -15389,39 +12539,6 @@
       ]
     },
     {
-      "name": "いぇす！ゆゆゆ☆ゆるゆり♪♪",
-      "artist": "七森中☆ごらく部「ゆるゆり♪♪」",
-      "bpm": "182",
-      "folder": "MURASAKi",
-      "jacket": "maimai/562.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "ENJOY POLIS",
       "artist": "LOPIT",
       "bpm": "220",
@@ -15712,72 +12829,6 @@
         },
         {
           "lvl": 13.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Star☆Glitter",
-      "artist": "セブンスシスターズ",
-      "bpm": "171",
-      "folder": "MURASAKi",
-      "jacket": "maimai/575.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.6,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "H-A-J-I-M-A-R-I-U-T-A-!!",
-      "artist": "777☆SISTERS",
-      "bpm": "140",
-      "folder": "MURASAKi",
-      "jacket": "maimai/576.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.1,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -16286,39 +13337,6 @@
       ]
     },
     {
-      "name": "SUSHI食べたい feat.ソイソース",
-      "artist": "ORANGE RANGE",
-      "bpm": "135",
-      "folder": "MURASAKi",
-      "jacket": "maimai/600.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "きらっせ☆ウッド村ファーム",
       "artist": "uno(IOSYS) feat.miko",
       "bpm": "190",
@@ -16418,72 +13436,6 @@
       ]
     },
     {
-      "name": "Jumping!!",
-      "artist": "Rhodanthe*",
-      "bpm": "175",
-      "folder": "MURASAKi",
-      "jacket": "maimai/604.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "7 Girls War",
-      "artist": "Wake Up, Girls！",
-      "bpm": "180",
-      "folder": "MURASAKi",
-      "jacket": "maimai/605.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "The wheel to the right",
       "artist": "Sampling Masters MEGA",
       "bpm": "200",
@@ -16510,39 +13462,6 @@
         },
         {
           "lvl": 14.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "SAKURAスキップ",
-      "artist": "fourfolium「NEW GAME!」",
-      "bpm": "165",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/609.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -16708,39 +13627,6 @@
         },
         {
           "lvl": 13.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Paradisus-Paradoxum",
-      "artist": "MYTH & ROID「Re：ゼロから始める異世界生活」",
-      "bpm": "201",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/615.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.1,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.2,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -17480,72 +14366,6 @@
       ]
     },
     {
-      "name": "ホシトハナ",
-      "artist": "讃州中学勇者部「結城友奈は勇者である」",
-      "bpm": "158",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/645.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "名探偵連続殺人事件",
-      "artist": "てにをは",
-      "bpm": "140",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/646.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "エイリアンエイリアン",
       "artist": "ナユタン星人",
       "bpm": "152",
@@ -17678,39 +14498,6 @@
       ]
     },
     {
-      "name": "Now Loading!!!!",
-      "artist": "fourfolium「NEW GAME!」",
-      "bpm": "193",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/653.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "真・ハンサム体操でズンドコホイ",
       "artist": "10Re;「学園ハンサム」",
       "bpm": "140",
@@ -17770,39 +14557,6 @@
         },
         {
           "lvl": 12.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "未来(ソラ)の歌",
-      "artist": "Questy「ポッピンQ」",
-      "bpm": "153",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/656.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -17902,72 +14656,6 @@
         },
         {
           "lvl": 13.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "CALL HEAVEN!!",
-      "artist": "夢色キャスト",
-      "bpm": "123",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/661.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Sunshine world tour",
-      "artist": "夢色キャスト",
-      "bpm": "140",
-      "folder": "MURASAKi PLUS",
-      "jacket": "maimai/662.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.3,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.4,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -19538,39 +16226,6 @@
       ]
     },
     {
-      "name": "ヤバい○○",
-      "artist": "上坂すみれ",
-      "bpm": "133",
-      "folder": "MiLK",
-      "jacket": "maimai/718.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.6,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "エンドマークに希望と涙を添えて",
       "artist": "cosMo＠暴走P",
       "bpm": "257",
@@ -19797,123 +16452,6 @@
           "lvl": 13.3,
           "style": "single",
           "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "POP TEAM EPIC",
-      "artist": "上坂すみれ「ポプテピピック」",
-      "bpm": "142",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/728.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.2,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.7,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "にめんせい☆ウラオモテライフ！",
-      "artist": "土間うまる（田中あいみ）「干物妹！うまるちゃんR」",
-      "bpm": "170",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/729.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.7,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.6,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.7,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "うまるん体操",
-      "artist": "妹Ｓ「干物妹！うまるちゃんR」",
-      "bpm": "170",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/730.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.2,
-          "style": "single",
-          "diffClass": "remaster",
           "flags": ["std"]
         }
       ]
@@ -20366,45 +16904,6 @@
       ]
     },
     {
-      "name": "全力☆Summer!",
-      "artist": "angela「アホガール」",
-      "bpm": "158",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/744.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.7,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.4,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.0,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "keep hopping",
       "artist": "kamome sano",
       "bpm": "155",
@@ -20537,39 +17036,6 @@
       ]
     },
     {
-      "name": "Ievan Polkka",
-      "artist": "Otomania feat. 初音ミク",
-      "bpm": "119",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/749.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.1,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "初音ミクの激唱",
       "artist": "Storyteller",
       "bpm": "200",
@@ -20695,39 +17161,6 @@
         },
         {
           "lvl": 13.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "Arrival of Tears",
-      "artist": "彩音",
-      "bpm": "200",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/754.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.7,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -21347,45 +17780,6 @@
       ]
     },
     {
-      "name": "甲賀忍法帖",
-      "artist": "陰陽座",
-      "bpm": "178",
-      "folder": "MiLK PLUS",
-      "jacket": "maimai/774.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.7,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "ジンギスカン",
       "artist": "仁井山征弘 Feat. GREAT G and surprise",
       "bpm": "150",
@@ -21684,45 +18078,6 @@
           "lvl": 12.6,
           "style": "single",
           "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "NOISY LOVE POWER☆",
-      "artist": "大橋彩香",
-      "bpm": "140",
-      "folder": "FiNALE",
-      "jacket": "maimai/788.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.8,
-          "style": "single",
-          "diffClass": "remaster",
           "flags": ["std"]
         }
       ]
@@ -22817,39 +19172,6 @@
       ]
     },
     {
-      "name": "Deep in Abyss",
-      "artist": "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）",
-      "bpm": "135",
-      "folder": "FiNALE",
-      "jacket": "maimai/824.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "雷切-RAIKIRI-",
       "artist": "kanone",
       "bpm": "165",
@@ -22962,39 +19284,6 @@
           "lvl": 12.5,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "アリサのテーマ",
-      "artist": "池頼広",
-      "bpm": "129",
-      "folder": "FiNALE",
-      "jacket": "maimai/828.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.3,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.5,
-          "style": "single",
-          "diffClass": "master",
           "flags": ["std"]
         }
       ]
@@ -23492,39 +19781,6 @@
       ]
     },
     {
-      "name": "ワンダーラスト",
-      "artist": "sasakure.UK",
-      "bpm": "230",
-      "folder": "FiNALE",
-      "jacket": "maimai/843.png",
-      "charts": [
-        {
-          "lvl": 5.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 13.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "End Time",
       "artist": "Cres.",
       "bpm": "180",
@@ -23756,39 +20012,6 @@
       ]
     },
     {
-      "name": "全世界共通リズム感テスト",
-      "artist": "☆リズムに合わせてボタンを叩き達成率を競うゲームです☆",
-      "bpm": "120",
-      "folder": "FiNALE",
-      "jacket": "maimai/854.png",
-      "charts": [
-        {
-          "lvl": 6.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 8.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["std"]
-        },
-        {
-          "lvl": 12.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["std"]
-        }
-      ]
-    },
-    {
       "name": "Technicians High",
       "artist": "HiTECH NINJA",
       "bpm": "165",
@@ -23983,45 +20206,6 @@
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
-        }
-      ]
-    },
-    {
-      "name": "コネクト",
-      "artist": "ClariS　「魔法少女まどか☆マギカ」",
-      "bpm": "175",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/10021.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.8,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["dx"]
         }
       ]
     },
@@ -24917,105 +21101,6 @@
       ]
     },
     {
-      "name": "かくしん的☆めたまるふぉ～ぜっ！",
-      "artist": "土間うまる [CV.田中あいみ]「干物妹！うまるちゃん」",
-      "bpm": "139",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/10475.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.7,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.3,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "シュガーソングとビターステップ",
-      "artist": "UNISON SQUARE GARDEN",
-      "bpm": "132",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/10500.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.3,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "Daydream café",
-      "artist": "Petit Rabbit's「ご注文はうさぎですか？」",
-      "bpm": "150",
-      "folder": "Splash",
-      "jacket": "maimai/10501.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "色は匂へど散りぬるを",
       "artist": "幽閉サテライト",
       "bpm": "138",
@@ -25280,39 +21365,6 @@
       ]
     },
     {
-      "name": "Paradisus-Paradoxum",
-      "artist": "MYTH & ROID「Re：ゼロから始める異世界生活」",
-      "bpm": "201",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/10615.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "Maxi",
       "artist": "Nizikawa",
       "bpm": "180",
@@ -25537,39 +21589,6 @@
         },
         {
           "lvl": 11.2,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "POP TEAM EPIC",
-      "artist": "上坂すみれ「ポプテピピック」",
-      "bpm": "142",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/10728.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.8,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -26654,78 +22673,6 @@
       ]
     },
     {
-      "name": "LOSER",
-      "artist": "米津玄師",
-      "bpm": "121",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11035.png",
-      "charts": [
-        {
-          "lvl": 1.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "U.S.A.",
-      "artist": "DA PUMP",
-      "bpm": "139",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11036.png",
-      "charts": [
-        {
-          "lvl": 2.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.8,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "HOT LIMIT",
       "artist": "T.M.Revolution [covered by 光吉猛修]",
       "bpm": "138",
@@ -26752,138 +22699,6 @@
         },
         {
           "lvl": 11.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "新宝島",
-      "artist": "サカナクション",
-      "bpm": "158",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11038.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "UNION",
-      "artist": "OxT",
-      "bpm": "178",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11039.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 10.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "乗ってけ！ジャパリビート",
-      "artist": "どうぶつビスケッツ×PPP「けものフレンズ２」",
-      "bpm": "134",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11041.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "フレ！フレ！ベストフレンズ",
-      "artist": "どうぶつビスケッツ×PPP「けものフレンズ」",
-      "bpm": "166",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11042.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.5,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -26957,39 +22772,6 @@
       ]
     },
     {
-      "name": "アウトサイダー",
-      "artist": "Eve",
-      "bpm": "172",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11045.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.3,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "アディショナルメモリー",
       "artist": "じん",
       "bpm": "200",
@@ -27016,39 +22798,6 @@
         },
         {
           "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "ジャガーノート",
-      "artist": "夏代孝明 feat. 初音ミク",
-      "bpm": "190",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11047.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.4,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -27221,105 +22970,6 @@
       ]
     },
     {
-      "name": "POPPY PAPPY DAY",
-      "artist": "ポプ子(CV:五十嵐裕美)＆ピピ美(CV:松嵜麗)",
-      "bpm": "157",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11055.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.1,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "Clattanoia",
-      "artist": "OxT",
-      "bpm": "190",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11056.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 10.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.6,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "The Gong of Knockout",
-      "artist": "Fear, and Loathing in Las Vegas",
-      "bpm": "180",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11057.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 13.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "デンパラダイム",
       "artist": "lumo",
       "bpm": "220",
@@ -27445,72 +23095,6 @@
         },
         {
           "lvl": 11.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "徒花ネクロマンシー",
-      "artist": "フランシュシュ",
-      "bpm": "172",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11062.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 10.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.6,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "目覚めRETURNER",
-      "artist": "フランシュシュ",
-      "bpm": "145",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11063.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -27716,72 +23300,6 @@
       ]
     },
     {
-      "name": "東奔西走行進曲",
-      "artist": "BLACK STARS（ブラック指令・ペガッサ星人・シルバーブルーメ・ノーバ）",
-      "bpm": "165",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11071.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.7,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "Soul-ride ON!",
-      "artist": "アギラ・キングジョー・ガッツ星人（CV：飯田里穂・三森すずこ・松田利冴）",
-      "bpm": "146",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11072.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "アカリがやってきたぞっ",
       "artist": "GYARI",
       "bpm": "136",
@@ -27841,39 +23359,6 @@
         },
         {
           "lvl": 13.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "未完成人",
-      "artist": "ンダホ&ぺけたん from Fischer's",
-      "bpm": "148",
-      "folder": "maimaiでらっくす",
-      "jacket": "maimai/11076.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.0,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.9,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -29015,39 +24500,6 @@
       ]
     },
     {
-      "name": "青空のラプソディ",
-      "artist": "fhána",
-      "bpm": "135",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11114.png",
-      "charts": [
-        {
-          "lvl": 2.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "だから僕は音楽を辞めた",
       "artist": "ヨルシカ",
       "bpm": "125",
@@ -29068,72 +24520,6 @@
         },
         {
           "lvl": 8.7,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "ラブ・ドラマティック feat. 伊原六花",
-      "artist": "鈴木雅之",
-      "bpm": "129",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11116.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.2,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.9,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "異世界かるてっと",
-      "artist": "アインズ(日野聡)、カズマ(福島潤)、スバル(小林裕介)、ターニャ(悠木碧)",
-      "bpm": "148",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11117.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.8,
           "style": "single",
           "diffClass": "expert",
           "flags": ["dx"]
@@ -29206,39 +24592,6 @@
         },
         {
           "lvl": 11.2,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "オトモダチフィルム",
-      "artist": "オーイシマサヨシ",
-      "bpm": "158",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11120.png",
-      "charts": [
-        {
-          "lvl": 4.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 7.4,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.9,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -30005,39 +25358,6 @@
       ]
     },
     {
-      "name": "六厘歌",
-      "artist": "六厘舎",
-      "bpm": "140",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11144.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
       "name": "Entrance",
       "artist": "Ice",
       "bpm": "180",
@@ -30229,39 +25549,6 @@
         },
         {
           "lvl": 12.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "馬と鹿",
-      "artist": "米津玄師",
-      "bpm": "91",
-      "folder": "maimaiでらっくす PLUS",
-      "jacket": "maimai/11151.png",
-      "charts": [
-        {
-          "lvl": 1.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 5.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -31134,144 +26421,6 @@
           "lvl": 13.7,
           "style": "single",
           "diffClass": "remaster",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "ノーポイッ!",
-      "artist": "Petit Rabbit's",
-      "bpm": "158",
-      "folder": "Splash",
-      "jacket": "maimai/11178.png",
-      "charts": [
-        {
-          "lvl": 2.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.9,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.0,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "町かどタンジェント",
-      "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
-      "bpm": "165",
-      "folder": "Splash",
-      "jacket": "maimai/11179.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.5,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 8.8,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.8,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "紅蓮華",
-      "artist": "LiSA",
-      "bpm": "135",
-      "folder": "Splash",
-      "jacket": "maimai/11180.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 11.5,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 13.0,
-          "style": "single",
-          "diffClass": "remaster",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "MIRACLE RUSH",
-      "artist": "StylipS",
-      "bpm": "168",
-      "folder": "Splash",
-      "jacket": "maimai/11182.png",
-      "charts": [
-        {
-          "lvl": 3.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 6.2,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.5,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.0,
-          "style": "single",
-          "diffClass": "master",
           "flags": ["dx"]
         }
       ]
@@ -32332,39 +27481,6 @@
         },
         {
           "lvl": 14.4,
-          "style": "single",
-          "diffClass": "master",
-          "flags": ["dx"]
-        }
-      ]
-    },
-    {
-      "name": "Pretender",
-      "artist": "Official髭男dism",
-      "bpm": "92",
-      "folder": "Splash",
-      "jacket": "maimai/11217.png",
-      "charts": [
-        {
-          "lvl": 2.0,
-          "style": "single",
-          "diffClass": "basic",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 5.8,
-          "style": "single",
-          "diffClass": "advanced",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 9.0,
-          "style": "single",
-          "diffClass": "expert",
-          "flags": ["dx"]
-        },
-        {
-          "lvl": 12.7,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -43119,7 +38235,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 9.8,
+          "lvl": 9.5,
           "style": "single",
           "diffClass": "expert",
           "flags": ["dx"]
@@ -43587,7 +38703,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.7,
+          "lvl": 13.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -43851,7 +38967,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 14.1,
+          "lvl": 14.2,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
