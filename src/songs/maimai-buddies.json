@@ -1187,7 +1187,7 @@
           "flags": ["std"]
         },
         {
-          "lvl": 13.2,
+          "lvl": 13.3,
           "style": "single",
           "diffClass": "remaster",
           "flags": ["std"]
@@ -2876,7 +2876,7 @@
           "flags": ["std"]
         },
         {
-          "lvl": 13.5,
+          "lvl": 13.6,
           "style": "single",
           "diffClass": "remaster",
           "flags": ["std"]
@@ -5060,7 +5060,7 @@
           "flags": ["std"]
         },
         {
-          "lvl": 13.5,
+          "lvl": 13.6,
           "style": "single",
           "diffClass": "remaster",
           "flags": ["std"]
@@ -7466,7 +7466,7 @@
           "flags": ["std"]
         },
         {
-          "lvl": 13.2,
+          "lvl": 13.3,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -18606,7 +18606,7 @@
           "flags": ["std"]
         },
         {
-          "lvl": 13.5,
+          "lvl": 13.4,
           "style": "single",
           "diffClass": "master",
           "flags": ["std"]
@@ -20571,7 +20571,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.5,
+          "lvl": 13.4,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -20934,7 +20934,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.6,
+          "lvl": 13.5,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -23595,7 +23595,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.6,
+          "lvl": 13.5,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -30309,7 +30309,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.0,
+          "lvl": 13.1,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -33756,7 +33756,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.0,
+          "lvl": 13.1,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -34482,7 +34482,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 12.9,
+          "lvl": 13.0,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -34911,7 +34911,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.6,
+          "lvl": 13.5,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
@@ -39633,7 +39633,7 @@
           "flags": ["dx"]
         },
         {
-          "lvl": 13.4,
+          "lvl": 13.5,
           "style": "single",
           "diffClass": "master",
           "flags": ["dx"]
