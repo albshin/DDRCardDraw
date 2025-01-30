@@ -55,6 +55,7 @@ export default async function run(
           })
         )
         .catch((e) => {
+          
           console.log(`Could not download jacket for: ${song.name}`);
         });
     }

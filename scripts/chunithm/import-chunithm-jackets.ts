@@ -4,7 +4,7 @@ import fetchImages from '../fetch-arcade-songs-images';
 
 // https.globalAgent.options.ca = fs.readFileSync('node_modules/node_extra_ca_certs_mozilla_bundle/ca_bundle/ca_intermediate_root_bundle.pem');
 
-const GAME_CODE = 'chunithm_new';
+const GAME_CODE = 'chunithm_sun_plus';
 const DATA_URL = 'https://dp4p6x0xfi5o9.cloudfront.net/chunithm/data.json';
 const BASE_URL = 'https://dp4p6x0xfi5o9.cloudfront.net/chunithm/img/cover-m/';
 

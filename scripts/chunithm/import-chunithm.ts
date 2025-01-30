@@ -4,8 +4,8 @@ import { writeJsonData } from '../utils';
 const fetch = require('node-fetch');
 
 const DATA_URL =
-  'https://web.archive.org/web/20220412150940if_/https://chunithm.sega.jp/storage/json/music.json';
-const OUTFILE = 'src/songs/chunithm_new.json';
+  'https://web.archive.org/web/20231213090716/https://chunithm.sega.jp/storage/json/music.json';
+const OUTFILE = 'src/songs/chunithm_sun_plus.json';
 
 function extractSong(rawSong: Record<string, any>) {
   return {
